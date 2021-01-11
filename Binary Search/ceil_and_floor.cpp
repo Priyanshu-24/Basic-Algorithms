@@ -1,7 +1,7 @@
 //If element is present then cceil and floor is equal to that element, otherwise
 
-//fl = largest element smaller than the element
-//ceil = smallest element larger than the element
+//ceil = largest element smaller than the element
+//floor = smallest element larger than the element
 
 int floor(int a[], int start, int end, int x)
 {
